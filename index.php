@@ -1,1 +1,1 @@
-<? echo "Hello Aircampus" ?>
+<? echo "Bienvenue sur Aircampus" ?>
